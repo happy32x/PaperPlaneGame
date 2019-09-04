@@ -1,13 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<style>
-canvas {
-    border:1px solid #d3d3d3;
-    background-color: #f1f1f1;
-}
-</style>
+    <link rel="shortcut icon" href="assets/img/brick.bmp" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style>
+    html {
+        text-align: center;
+        background-color: #000000;    
+        zoom: -1; 
+        transform: scale(0.8); 
+        transform-origin: center 0;
+        -moz-transform: scale(0.8); 
+        -moz-transform-origin: center 0;
+    } 
+    canvas {
+        border:1px solid #d3d3d3;
+        background-color: #f1f1f1;
+    }
+    </style>
 </head>
 <body onload="startGame()">
     <script src="js/Game.js">
