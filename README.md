@@ -6,10 +6,7 @@ Image
 ![alt text](https://raw.githubusercontent.com/happy32x/PaperPlaneGame/master/assets/img/preview.bmp)
 
 Video
-[![Watch the video](https://img.youtube.com/vi/LYRuFtkDU4I/hqdefault.jpg)](https://www.youtube.com/embed/LYRuFtkDU4I)
-
-[<img src="https://img.youtube.com/vi/LYRuFtkDU4I/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/LYRuFtkDU4I)
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
 
 
 # Click here to play game
