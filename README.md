@@ -8,5 +8,5 @@ A good game to avoid boredom
 
 # Click here to play game
 https://happy32x.itch.io/paperplanegame
-or
+- OR -
 https://happy32x.github.io/PaperPlaneGame/
