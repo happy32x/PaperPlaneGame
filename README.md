@@ -15,3 +15,6 @@ https://www.youtube.com/watch?v=LYRuFtkDU4I
 https://happy32x.itch.io/paperplanegame
 OR
 https://happy32x.github.io/PaperPlaneGame/
+
+# Issue
+*If the game does not launch, download the package and run the index.html file locally on your browser.
